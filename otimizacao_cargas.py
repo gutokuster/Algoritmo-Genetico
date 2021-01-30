@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @date: Jan/21   @author: @gkuster   @v_1.0
+# @date: Jan/21   @author: @gkuster
 
 ###############################################################################
 # Variáveis
